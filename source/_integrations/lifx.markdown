@@ -16,6 +16,7 @@ ha_integration_type: integration
 The `lifx` integration allows you to integrate your [LIFX](https://www.lifx.com) into Home Assistant.
 
 _Please note, the `lifx` integration does not support Windows. The `lifx_legacy` light platform (supporting basic functionality) can be used instead._
+_The `lifx_legacy` light platform was removed May 5, 2021 lifx_https://github.com/home-assistant/core/pull/50069
 
 {% include integrations/config_flow.md %}
 
